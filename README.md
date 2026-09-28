@@ -69,6 +69,7 @@
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) – Convert HEIC photos to PNG online free, no signup; files are processed in your browser, never uploaded.
 
 ---
 

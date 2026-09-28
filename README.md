@@ -64,6 +64,7 @@
 
 - [Meme/Graphic Creator](https://globalonlinetools.com/tools/meme-graphic-creator) – Generate memes or graphics quickly.  
 - [Color Code Picker & Converter](https://globalonlinetools.com/tools/color-code-picker-converter) – Pick and convert color codes easily.  
+- [File Converter](https://fileontap.com/) – Free browser-based image and PDF conversion (HEIC/WebP/PNG/JPG + image↔PDF); processing stays on the device with no upload or account.
 
 **Other design tools:**  
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  

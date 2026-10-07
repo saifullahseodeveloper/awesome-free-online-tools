@@ -57,6 +57,7 @@
 - [Buffer](https://buffer.com) – Social media management.  
 - [Canva](https://www.canva.com) – Free templates for social graphics.  
 - [Bitly](https://bitly.com) – URL shortening and tracking.  
+- [KupFollowersow.pl Follower Growth Calculator (Polish)](https://kupfollowersow.pl/tools/follower-growth) – Free manual planner for the net follower increase needed per day and week; no account or profile lookup.  
 
 ---
 

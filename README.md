@@ -83,6 +83,7 @@
 - [Notion](https://www.notion.so) – Notes and project management.  
 - [Trello](https://trello.com) – Visual project boards.  
 - [Google Keep](https://keep.google.com) – Quick note-taking and reminders.  
+- [QuietTake Noise Remover](https://noiseremover.site/) – Local RNNoise speech noise reduction, original/cleaned playback and 48 kHz 16-bit WAV export; free without signup or audio upload, up to 50 MB and five minutes per file.  
 
 ---
 
